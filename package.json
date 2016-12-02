@@ -1,0 +1,23 @@
+{
+  "name": "mobileapp",
+  "version": "1.0.0",
+  "description": "The mobile app built by vue.js components",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inverthermit/mobileapp.git"
+  },
+  "keywords": [
+    "mobile",
+    "app"
+  ],
+  "author": "Tim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inverthermit/mobileapp/issues"
+  },
+  "homepage": "https://github.com/inverthermit/mobileapp#readme"
+}
