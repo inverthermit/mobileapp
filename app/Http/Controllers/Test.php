@@ -7,6 +7,8 @@ class Test extends Controller
 {
 	public function output()
 	{
-		echo "hello";
+		echo "hello<br>";
+		$model = User::findOrFail(1);
+		echo $model->nickname;
 	}
 }
