@@ -9,4 +9,8 @@ class Test extends Controller
 	{
 		echo "hello";
 	}
+    public function login()
+	{
+		echo "login";
+	}
 }
